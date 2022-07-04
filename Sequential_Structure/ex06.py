@@ -1,2 +1,5 @@
-
+print("this program will calculate the area of a circle")
+print("A=π.r² so we need the radius")
+r = int(input("please, write the radius\n"))
+print("Your result is ", (3,14*(r**2))," :)")
 input("Press ENTER to quit")
